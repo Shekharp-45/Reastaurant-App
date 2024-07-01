@@ -1,0 +1,2 @@
+# Reastaurant App
+  ReactJs | Material UI | HTML | Tialwind CSS  • Designed and developed a visually appealing  and informative restaurant website show casing detailed menus. Utilized React hooks,  props, and useState for dynamic and respon sive user interface.  • Implemented a scalable navigation bar that  expands to accommodate additional menu  categories. Organized and displayed dishes  according to their respective categories for  easy navigation
